@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ace9cca6-fdd2-4cfc-8004-e5292fadb34c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ex01.html.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cautrucif-else.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cautrucif-else2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cautrucif-else.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +45,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586660075004</updated>
-      <workItem from="1586660076719" duration="760000" />
+      <workItem from="1586660076719" duration="1028000" />
+      <workItem from="1586663482169" duration="1121000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1586661119816">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1586661119816" />
+    <state x="372" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586663755597">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="372" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1586663755597" />
   </component>
 </project>
